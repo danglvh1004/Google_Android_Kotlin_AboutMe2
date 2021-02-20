@@ -35,6 +35,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="@dimen/layout_margin"
         android:background="@color/colorAccent"
+        android:onClick="clickHandlerFunction"
         android:text="@string/done" />
 
     <TextView
